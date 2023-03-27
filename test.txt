@@ -3,6 +3,7 @@ ctrl + z # undo command
 ctrl + a # highlight all
 ctrl + c # copy command
 git checkout "commit number" or "main" # move back or forward if changes are made
+git branch # shows where you are
 
 # steps
 untracked file -- add -- commit -- push

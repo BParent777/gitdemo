@@ -1,6 +1,8 @@
 ctrl + s # save command
 ctrl + z # undo command
 ctrl + a # highlight all
+ctrl + c # copy command
 
 # steps
 untracked file -- add -- commit -- push
+git commit --help

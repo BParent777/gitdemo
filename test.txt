@@ -1,0 +1,6 @@
+ctrl + s # save command
+ctrl + z # undo command
+ctrl + a # highlight all
+
+# steps
+untracked file -- add -- commit -- push
